@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "operator"
+version = "0.1.0"
+description = "A short example of Poetry use"
+authors = ["nacho"]
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+pandas = "^2.1.0"
+requests = "^2.31.0"
+matplotlib = "^3.7.2"
+numpy = "^1.27.0"
